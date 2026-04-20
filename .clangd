@@ -1,0 +1,9 @@
+CompileFlags:
+  Add: [
+    -xc,
+    -Wall,
+    -Wextra,
+    -std=c23,
+    -Iinclude,
+    -pthread,
+  ]
